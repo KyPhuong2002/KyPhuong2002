@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **dkyphuong04@gmail.com**
 
-- ⚡ Fun fact **I'm open and friendly and willing to learn new things related to Networking.**
+- ⚡ Fun fact: **I'm open and friendly and willing to learn new things related to Networking.**
 
 
 <h3 align="left">Languages and Tools:</h3>
