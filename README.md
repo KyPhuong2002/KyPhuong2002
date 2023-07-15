@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyen Dang Ky Phuong</h1>
-<h3 align="center">A 3rd year student majoring in cyber security</h3>
+<h3 align="center">A 3rd year student majoring in Cyber Security</h3>
 
 - 🔭 I have worked on [Pong Game](https://github.com/KyPhuong2002/Pong)
 
